@@ -94,3 +94,6 @@ This dashboard empowers financial institutions to:
 (Upcoming updates: dashboard screenshots, PBIX file, and key insights)
 
 ---
+
+<img width="2070" height="1165" alt="image" src="https://github.com/user-attachments/assets/daf47333-1bfa-4ff6-b007-787c14e70e08" />
+
