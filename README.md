@@ -95,5 +95,5 @@ This dashboard empowers financial institutions to:
 
 ---
 
-<img width="2070" height="1165" alt="image" src="https://github.com/user-attachments/assets/daf47333-1bfa-4ff6-b007-787c14e70e08" />
+<img width="2071" height="1172" alt="image" src="https://github.com/user-attachments/assets/98feaf38-9835-487b-ab08-791a3cdd6cdb" />
 
