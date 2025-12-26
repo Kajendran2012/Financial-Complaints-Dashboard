@@ -90,7 +90,7 @@ This dashboard empowers financial institutions to:
 ---
 
 ## 🚧 Project Status
-**In Progress**  
+**Completed**  
 (Upcoming updates: dashboard screenshots, PBIX file, and key insights)
 
 ---
